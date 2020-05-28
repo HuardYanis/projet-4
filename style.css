@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -1039,4 +1039,48 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+/*----------------------------------------------------------------------------Modification-----------------------------------------------------------------------------------*/
+#modif_text1 {
+    font-size: 1.55em;    
+}
+#modif_text2 {
+    font-size: 1.3em;
+    font-style: italic;
+}
+#modif_span_text2 {
+    font-style: initial;
+    font-size: 0.8em;
+}
+#modif_text3 {
+    font-size: 1.55em;    
+}
+#modif_form {
+display: flex;
+justify-content: ;
+flex-direction: column;
+}
+#center_form {
+    margin: auto;
+}
+#modif_adresse:nth-child(2) {
+text-align: center;
+margin: auto;
+}
+#message {
+border: 1px solid #c27956;
+}
+#input_504 {
+border: 1px solid #c27956;
+}
+#email {
+border: 1px solid #c27956;
+}
+#name {
+border: 1px solid #c27956;
+}
+#form_1 {
+    text-align: center;
 }
