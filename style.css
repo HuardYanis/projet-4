@@ -1114,3 +1114,6 @@ margin-left: 19em;
 #ul_partner > li {
 margin-right: 2em;
 }
+.navbar-brand img {
+    height: 40px;
+}
